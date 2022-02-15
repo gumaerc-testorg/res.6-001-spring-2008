@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Chapter 7
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Chapter 7.7.1: Supplement: Van de Graaff and Kelvin Generators'
 uid: a466bd3f-ea84-a01d-83c8-f1a305149eda

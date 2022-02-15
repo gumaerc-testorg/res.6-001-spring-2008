@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Chapter 9
 uid: 5facb331-041b-4305-6eec-0503080cecb4
 ---

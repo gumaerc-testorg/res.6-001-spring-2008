@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Chapter 15
 uid: b507b27a-e00d-8e04-ab27-60202f8906f9
 ---

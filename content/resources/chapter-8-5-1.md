@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Chapter 8
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Chapter 8.5.1: Field and Inductance of a Spherical Coil'
 uid: 483f93ce-1d9e-9efe-efa2-a682a4e1fc71

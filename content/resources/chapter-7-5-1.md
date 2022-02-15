@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Chapter 7
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Chapter 7.5.1: Distribution of Unpaired Charge'
 uid: 225732de-68a4-e8a3-7b4e-9b1314c74b89

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Chapter 1
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Chapter 1.4.1: Magnetic Field of a Line Current'
 uid: 3dc9396e-d66c-e110-4c20-ac70d9a56427

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Chapter 11
 uid: cde42339-1482-7468-dc05-1a2b2abab981
 ---
@@ -32,7 +34,7 @@ LONG FORM
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11.0 Introduction
 
 *   _Power flow in a circuit_

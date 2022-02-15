@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Chapter 11
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Chapter 11.7.1: Steady State Magnetic Levitation'
 uid: 9365003d-7fc6-f7b5-c1af-a41ee68c4f4d

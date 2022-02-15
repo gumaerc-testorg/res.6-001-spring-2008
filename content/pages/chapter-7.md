@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Chapter 7
 uid: e3c8e3aa-5342-59c7-b03d-e09f2c6ac455
 ---
@@ -32,7 +34,7 @@ LONG FORM
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 7.0 Introduction  
 7.1 Conduction constitutive laws
 
@@ -119,7 +121,7 @@ LONG FORM
 {{< tdopen >}}
 7.7.1: Relaxation of Charge on Particle in Ohmic Conductor (Courtesy of Education Development Center, Inc. Used with permission.)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Chapter 7.7.1: Relaxation of Charge on Particle in Ohmic Conductor; Supplement: Van de Graaff and Kelvin Generators]({{< baseurl >}}/resources/7-7)
 {{< tdclose >}}
 {{< tdopen >}}

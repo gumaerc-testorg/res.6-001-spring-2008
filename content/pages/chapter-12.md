@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Chapter 12
 uid: c7e4a3ac-7372-0a82-b7df-3fc14bd9134d
 ---

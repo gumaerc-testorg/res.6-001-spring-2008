@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Solutions Manual
 uid: 095211ac-3458-3030-9c56-c809018dc6cc
 ---

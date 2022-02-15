@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Chapter 8
 uid: f94393b4-1330-86d3-8008-5b748deb6936
 ---
@@ -32,7 +34,7 @@ LONG FORM
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 8.0 Introduction
 
 *   _Vector field uniquely specified_

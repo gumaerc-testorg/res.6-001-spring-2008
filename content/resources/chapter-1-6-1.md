@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Chapter 1
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Chapter 1.6.1: Voltmeter Reading Induced by Magnetic Induction'
 uid: 1a315c0c-9f4d-8f37-f39d-ed3f0aa7f89c

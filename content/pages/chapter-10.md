@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Chapter 10
 uid: ae221967-6cdf-3f09-1e47-904371b7612f
 ---
@@ -32,7 +34,7 @@ LONG FORM
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 10.0 Introduction  
 10.1 Magnetoquasistatic electric fields in systems of perfect conductors  
 10.2 Nature of fields induced in finite conductors  

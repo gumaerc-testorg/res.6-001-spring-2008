@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Chapter 2
 uid: a7c7ef8e-f616-e7d9-68be-a8a1ea2367a0
 ---

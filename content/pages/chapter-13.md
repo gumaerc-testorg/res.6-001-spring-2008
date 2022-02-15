@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Chapter 13
 uid: becb8965-2198-6489-e609-218c2562a25a
 ---

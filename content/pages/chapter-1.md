@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Chapter 1
 uid: 2b76c811-c8fe-b72c-b9c5-e59ddb3ab309
 ---
@@ -32,7 +34,7 @@ LONG FORM
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 1.0 Introduction
 
 *   _Overview of subject_

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Chapter 10
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Chapter 10.0.1: Non Uniqueness of Voltage in a Magnetoquasistatic System'
 uid: 02cdd943-d7ec-255a-d516-9accb9aecfc3
