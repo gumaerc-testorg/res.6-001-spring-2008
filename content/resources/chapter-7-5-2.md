@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Chapter 7.5.2: Rotation of an Insulating Rod in a Steady Current (demo only)'
 uid: 742ad389-a1a5-610f-64a0-71292ef78c20
 video_files:

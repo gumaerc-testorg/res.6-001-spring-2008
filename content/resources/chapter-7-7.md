@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Chapter 7.7.1: Relaxation of Charge on Particle in Ohmic Conductor'
 uid: fe4dd20f-e39c-35e6-c58d-156d436be815
 video_files:

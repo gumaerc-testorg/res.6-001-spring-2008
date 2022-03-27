@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Chapter 11.6.2: Force on a Liquid Dielectric (demo only)'
 uid: b6fcbcb2-30e4-3881-c9cd-e93487b8f74a
 video_files:

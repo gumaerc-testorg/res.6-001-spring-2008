@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Chapter 4.7.1: Charge Induced in Ground Plane by Overhead Conductor'
 uid: 1f9ed97d-b553-1e38-911e-0bac8230be85
 video_files:

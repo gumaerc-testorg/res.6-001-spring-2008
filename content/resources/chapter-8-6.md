@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Chapter 8.6.1: Surface Currents Induced in Ground Plane by Overhead Conductor
   (demo only)'
 uid: b0d981cd-1485-3b36-2cc6-1f45e9279822

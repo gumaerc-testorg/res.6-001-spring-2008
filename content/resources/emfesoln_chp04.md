@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Solutions Manual
 parent_type: SupplementalResourceSection
+parent_uid: 095211ac-3458-3030-9c56-c809018dc6cc
 resourcetype: Document
 title: emfesoln_chp04.pdf
 uid: 35688215-b775-4c04-e6a1-3134a66e90e1

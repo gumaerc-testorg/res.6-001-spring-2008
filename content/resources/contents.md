@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Front-End Matter
 parent_type: SupplementalResourceSection
+parent_uid: 8a35fb4c-d684-8751-0388-aa9e408f3bb8
 resourcetype: Document
 title: contents.pdf
 uid: cec39dc5-3977-8258-e8ef-7cfc692e1c83

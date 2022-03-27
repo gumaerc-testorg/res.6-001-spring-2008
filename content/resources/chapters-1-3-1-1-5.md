@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Chapters 1.3.1, 1.5.1: Coulomb''s Force Law and Measurements of Charge (demo
   only)'
 uid: 8954d360-4826-ee97-69bd-68155079b029

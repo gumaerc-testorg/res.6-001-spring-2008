@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: ' Chapter 13.1.1: Visualization of Standing Waves'
 uid: 4e06c7d0-bab4-6202-ad93-5de5d466166a
 video_files:

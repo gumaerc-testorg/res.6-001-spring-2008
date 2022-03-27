@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Front-End Matter
 parent_type: SupplementalResourceSection
+parent_uid: 8a35fb4c-d684-8751-0388-aa9e408f3bb8
 resourcetype: Document
 title: dedication.pdf
 uid: 53b6d2f9-9ab6-08aa-fee2-6c2fe25cc3e2
