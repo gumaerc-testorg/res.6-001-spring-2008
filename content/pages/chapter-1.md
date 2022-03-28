@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 1
 uid: 2b76c811-c8fe-b72c-b9c5-e59ddb3ab309
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 1: Maxwell's integral laws in free space** ([PDF]({{< baseurl >}}/resources/01))
+**Chapter 1: Maxwell's integral laws in free space** ({{< resource_link f37c6a76-0721-673d-45b4-59acf001aae8 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,14 +78,14 @@ LONG FORM
 {{< tdopen >}}
 
 
-[Chapters 1.3.1, 1.5.1: Coulomb's Force Law and Measurements of Charge (demo only)]({{< baseurl >}}/resources/chapters-1-3-1-1-5)
+{{< resource_link 8954d360-4826-ee97-69bd-68155079b029 "Chapters 1.3.1, 1.5.1: Coulomb's Force Law and Measurements of Charge (demo only)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Chapters 1.3.1, 1.5.1: Coulomb's Force Law and Measurements of Charge]({{< baseurl >}}/resources/chapters-1-3-1-1-5-1)
+{{< resource_link 3d2bc50f-7b12-6662-47da-7f5ae035290d "Chapters 1.3.1, 1.5.1: Coulomb's Force Law and Measurements of Charge" >}}
 
 
 {{< tdclose >}}
@@ -95,10 +96,10 @@ LONG FORM
 1.4.1: Magnetic field of a line current
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 1.4.1: Magnetic Field of a Line Current (demo only)]({{< baseurl >}}/resources/chapter-1-4)
+{{< resource_link f12feb50-3998-2fa8-cf4b-d5141e904a77 "Chapter 1.4.1: Magnetic Field of a Line Current (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 1.4.1: Magnetic Field of a Line Current]({{< baseurl >}}/resources/chapter-1-4-1)
+{{< resource_link 3dc9396e-d66c-e110-4c20-ac70d9a56427 "Chapter 1.4.1: Magnetic Field of a Line Current" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,10 +108,10 @@ LONG FORM
 1.6.1: Voltmeter reading induced by magnetic induction
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 1.6.1: Voltmeter Reading Induced by Magnetic Induction (demo only)]({{< baseurl >}}/resources/chapter-1-6)
+{{< resource_link 8ed115c2-1ceb-c0b3-91e2-0b5225642223 "Chapter 1.6.1: Voltmeter Reading Induced by Magnetic Induction (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 1.6.1: Voltmeter Reading Induced by Magnetic Induction]({{< baseurl >}}/resources/chapter-1-6-1)
+{{< resource_link 1a315c0c-9f4d-8f37-f39d-ed3f0aa7f89c "Chapter 1.6.1: Voltmeter Reading Induced by Magnetic Induction" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

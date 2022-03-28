@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 4
 uid: c6f23204-4736-5b65-eb90-5a1e7cea2db4
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 4: Electroquasistatic fields: the superposition integral point of view** ([PDF]({{< baseurl >}}/resources/04))
+**Chapter 4: Electroquasistatic fields: the superposition integral point of view** ({{< resource_link 90d4d007-80d8-c458-2a29-1ad3c691031f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,10 +68,10 @@ LONG FORM
 4.7.1: Charge induced in ground plane by overhead conductor
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 4.7.1: Charge Induced in Ground Plane by Overhead Conductor (demo only)]({{< baseurl >}}/resources/chapter-4-7)
+{{< resource_link eb67e86a-2533-0b28-9bf7-22b368a6b947 "Chapter 4.7.1: Charge Induced in Ground Plane by Overhead Conductor (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 4.7.1: Charge Induced in Ground Plane by Overhead Conductor]({{< baseurl >}}/resources/chapter-4-7-1)
+{{< resource_link 1f9ed97d-b553-1e38-911e-0bac8230be85 "Chapter 4.7.1: Charge Induced in Ground Plane by Overhead Conductor" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,17 +1,17 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Chapter 10
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Chapter 10.4.1: Currents Induced in a Conducting Shell'
 uid: a3f9e697-58d5-fbd6-e235-cfddd72e17b3
 video_files:

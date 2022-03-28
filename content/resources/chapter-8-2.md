@@ -1,17 +1,17 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Chapter 8
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Chapter 8.2.1: Field of a Circular Cylindrical Solenoid (demo only)'
 uid: df976674-1eb8-271f-e5a8-131b21f10e73
 video_files:

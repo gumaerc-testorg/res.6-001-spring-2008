@@ -1,17 +1,17 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Chapter 8
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Chapter 8.4.1: Surface Used to Define the Flux Linkage (demo only)'
 uid: bfbb1335-654d-71b8-9167-00e576c9e156
 video_files:

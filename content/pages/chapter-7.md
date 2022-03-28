@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 7
 uid: e3c8e3aa-5342-59c7-b03d-e09f2c6ac455
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 7: Conduction and electroquasistatic charge relaxation** ([PDF]({{< baseurl >}}/resources/07))
+**Chapter 7: Conduction and electroquasistatic charge relaxation** ({{< resource_link dd75cf8d-0d3d-03d6-a6a9-86362e9870ab "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,10 +95,10 @@ LONG FORM
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 7.5.1: Distribution of Unpaired Charge (demo only)]({{< baseurl >}}/resources/chapter-7-5)
+{{< resource_link 503425a9-3801-de94-ebe2-dbd3633ad048 "Chapter 7.5.1: Distribution of Unpaired Charge (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 7.5.1: Distribution of Unpaired Charge]({{< baseurl >}}/resources/chapter-7-5-1)
+{{< resource_link 225732de-68a4-e8a3-7b4e-9b1314c74b89 "Chapter 7.5.1: Distribution of Unpaired Charge" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,10 +111,10 @@ LONG FORM
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 7.5.2: Rotation of an Insulating Rod in a Steady Current (demo only)]({{< baseurl >}}/resources/chapter-7-5-2)
+{{< resource_link 742ad389-a1a5-610f-64a0-71292ef78c20 "Chapter 7.5.2: Rotation of an Insulating Rod in a Steady Current (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 7.5.2: Rotation of an Insulating Rod in a Steady Current]({{< baseurl >}}/resources/chapter-7-5-3)
+{{< resource_link fcdc1576-a99b-b82c-6aea-af4609d0b0ea "Chapter 7.5.2: Rotation of an Insulating Rod in a Steady Current" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,10 +123,10 @@ LONG FORM
 7.7.1: Relaxation of Charge on Particle in Ohmic Conductor (Courtesy of Education Development Center, Inc. Used with permission.)
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Chapter 7.7.1: Relaxation of Charge on Particle in Ohmic Conductor; Supplement: Van de Graaff and Kelvin Generators]({{< baseurl >}}/resources/7-7)
+{{< resource_link 736b882f-6bc1-2b56-8628-177b1f8746bf "Chapter 7.7.1: Relaxation of Charge on Particle in Ohmic Conductor; Supplement: Van de Graaff and Kelvin Generators" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 7.7.1: Relaxation of Charge on Particle in Ohmic Conductor]({{< baseurl >}}/resources/chapter-7-7)
+{{< resource_link fe4dd20f-e39c-35e6-c58d-156d436be815 "Chapter 7.7.1: Relaxation of Charge on Particle in Ohmic Conductor" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +139,7 @@ LONG FORM
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 7.7.1: Supplement: Van de Graaff and Kelvin Generators]({{< baseurl >}}/resources/chapter-7-7-1)
+{{< resource_link a466bd3f-ea84-a01d-83c8-f1a305149eda "Chapter 7.7.1: Supplement: Van de Graaff and Kelvin Generators" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,10 +152,10 @@ LONG FORM
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 7.7.2: Electrostatic Precipitation (demo only)]({{< baseurl >}}/resources/chapter-7-7-2)
+{{< resource_link 7b97df79-7344-9b77-1b0d-ced501f63917 "Chapter 7.7.2: Electrostatic Precipitation (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 7.7.2: Electrostatic Precipitation]({{< baseurl >}}/resources/chapter-7-7-3)
+{{< resource_link 7119598b-e042-b6dd-1e36-f846e6780c47 "Chapter 7.7.2: Electrostatic Precipitation" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

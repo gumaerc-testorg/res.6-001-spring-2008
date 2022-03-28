@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 10
 uid: ae221967-6cdf-3f09-1e47-904371b7612f
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 10: Magnetoquasistatic relaxation and diffusion** ([PDF]({{< baseurl >}}/resources/10))
+**Chapter 10: Magnetoquasistatic relaxation and diffusion** ({{< resource_link c2c9f1b3-7997-09c8-dcc4-48356b30a382 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,10 +63,10 @@ LONG FORM
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 10.0.1: Non Uniqueness of Voltage in a Magnetoquasistatic System (demo only)]({{< baseurl >}}/resources/chapter-10-0)
+{{< resource_link 42a5210b-5a76-b626-b431-19753b6d6b13 "Chapter 10.0.1: Non Uniqueness of Voltage in a Magnetoquasistatic System (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 10.0.1: Non Uniqueness of Voltage in a Magnetoquasistatic System]({{< baseurl >}}/resources/chapter-10-0-1)
+{{< resource_link 02cdd943-d7ec-255a-d516-9accb9aecfc3 "Chapter 10.0.1: Non Uniqueness of Voltage in a Magnetoquasistatic System" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,10 +79,10 @@ LONG FORM
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 10.2.1: Edgerton's Boomer (demo only)]({{< baseurl >}}/resources/chapter-10-2)
+{{< resource_link cf5fa2a1-4acc-594a-b404-1658e44f57b6 "Chapter 10.2.1: Edgerton's Boomer (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 10.2.1: Edgerton's Boomer]({{< baseurl >}}/resources/chapter-10-2-1)
+{{< resource_link 80dbd60f-20bc-bc10-1fe6-dd85fa5d9a33 "Chapter 10.2.1: Edgerton's Boomer" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,10 +95,10 @@ LONG FORM
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 10.4.1: Currents Induced in a Conducting Shell (demo only)]({{< baseurl >}}/resources/chapter-10-4)
+{{< resource_link af2914e7-b454-7a8c-4921-193dc2d4c491 "Chapter 10.4.1: Currents Induced in a Conducting Shell (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 10.4.1: Currents Induced in a Conducting Shell]({{< baseurl >}}/resources/chapter-10-4-1)
+{{< resource_link a3f9e697-58d5-fbd6-e235-cfddd72e17b3 "Chapter 10.4.1: Currents Induced in a Conducting Shell" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,10 +111,10 @@ LONG FORM
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 10.7.1: Skin Effect (demo only)]({{< baseurl >}}/resources/chapter-10-7)
+{{< resource_link 4a2171d9-7fdf-da5f-2abd-ce7fc3d82732 "Chapter 10.7.1: Skin Effect (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 10.7.1: Skin Effect]({{< baseurl >}}/resources/chapter-10-7-1)
+{{< resource_link 2522b16d-a7c3-7b73-2228-11576a56cf81 "Chapter 10.7.1: Skin Effect" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

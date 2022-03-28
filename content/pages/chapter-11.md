@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 11
 uid: cde42339-1482-7468-dc05-1a2b2abab981
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 11: Energy, power flow, and forces** ([PDF]({{< baseurl >}}/resources/11))
+**Chapter 11: Energy, power flow, and forces** ({{< resource_link 0f814aee-1c72-517d-f7d7-e7e96b7365e1 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,10 +96,10 @@ LONG FORM
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 11.6.2: Force on a Liquid Dielectric (demo only)]({{< baseurl >}}/resources/chapter-11-6)
+{{< resource_link b6fcbcb2-30e4-3881-c9cd-e93487b8f74a "Chapter 11.6.2: Force on a Liquid Dielectric (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 11.6.2: Force on a Liquid Dielectric]({{< baseurl >}}/resources/chapter-11-6-1)
+{{< resource_link e5e78c5e-0a7c-e026-2dbb-d7ffb7f2fec3 "Chapter 11.6.2: Force on a Liquid Dielectric" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,10 +112,10 @@ LONG FORM
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 11.7.1: Steady State Magnetic Levitation (demo only)]({{< baseurl >}}/resources/chapter-11-7)
+{{< resource_link d1c67275-4028-4472-1418-57ebe0afb153 "Chapter 11.7.1: Steady State Magnetic Levitation (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 11.7.1: Steady State Magnetic Levitation]({{< baseurl >}}/resources/chapter-11-7-1)
+{{< resource_link 9365003d-7fc6-f7b5-c1af-a41ee68c4f4d "Chapter 11.7.1: Steady State Magnetic Levitation" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

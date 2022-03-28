@@ -1,17 +1,17 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Chapter 10
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Chapter 10.2.1: Edgerton''s Boomer (demo only)'
 uid: cf5fa2a1-4acc-594a-b404-1658e44f57b6
 video_files:

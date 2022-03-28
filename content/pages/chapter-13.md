@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 13
 uid: becb8965-2198-6489-e609-218c2562a25a
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 13: Electrodynamic fields: the boundary value point of view** ([PDF]({{< baseurl >}}/resources/13))
+**Chapter 13: Electrodynamic fields: the boundary value point of view** ({{< resource_link e7b7eabc-9d19-21d2-31a0-12c6d0b94f93 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,10 +60,10 @@ The MQS approximation
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 13.1.1: Visualization of Standing Waves (demo only)]({{< baseurl >}}/resources/chapter-13-1)
+{{< resource_link 0f5daf1d-885c-33f8-979e-66c8ca1a7d14 "Chapter 13.1.1: Visualization of Standing Waves (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 13.1.1: Visualization of Standing Waves]({{< baseurl >}}/resources/chapter-13-1-1)
+{{< resource_link 4e06c7d0-bab4-6202-ad93-5de5d466166a "Chapter 13.1.1: Visualization of Standing Waves" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

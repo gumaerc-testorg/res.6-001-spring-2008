@@ -1,17 +1,17 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Chapter 9
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Chapter 9.4.1: Measurement of B-H Characteristic (demo only)'
 uid: a27fcf07-95b4-9661-6637-2994d5c20de1
 video_files:

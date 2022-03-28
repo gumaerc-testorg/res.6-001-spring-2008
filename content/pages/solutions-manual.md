@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Solutions Manual
 uid: 095211ac-3458-3030-9c56-c809018dc6cc
 ---
@@ -11,7 +12,7 @@ _Electromagnetic Fields and Energy_ Solutions Manual
 
 _Electromagnetic Fields and Energy Solutions Manual_ as one file ([PDF - 12.7MB](/ans7870/resources/zahn/solutions/emfesoln.pdf))
 
-Title page and Preface ([PDF]({{< baseurl >}}/resources/emfesoln_title))
+Title page and Preface ({{< resource_link a94edab8-91f5-b12f-d116-929323582272 "PDF" >}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -31,7 +32,7 @@ FILES
 Chapter 1, pp. 1.1-1.19
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/emfesoln_chp01))
+({{< resource_link 08767a3f-980c-3665-d431-f8ea81f16858 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +41,7 @@ Chapter 1, pp. 1.1-1.19
 Chapter 2, pp. 2.1-2.15
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/emfesoln_chp02))
+({{< resource_link 8f6581af-65f4-706c-dbdc-12b2bde1eb9c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Chapter 2, pp. 2.1-2.15
 Chapter 3, pp. 3.1-3.8
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/emfesoln_chp03))
+({{< resource_link e51c5d9d-5aab-2e4a-5cf0-998bb3e5d6e7 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +59,7 @@ Chapter 3, pp. 3.1-3.8
 Chapter 4, pp. 4.1-4.38
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/emfesoln_chp04))
+({{< resource_link 35688215-b775-4c04-e6a1-3134a66e90e1 "PDF - 1.3MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Chapter 4, pp. 4.1-4.38
 Chapter 5, pp. 5.1-5.35
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6MB]({{< baseurl >}}/resources/emfesoln_chp05))
+({{< resource_link 3019f880-ba0e-b8f6-35ad-26b1347c1975 "PDF - 1.6MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +77,7 @@ Chapter 5, pp. 5.1-5.35
 Chapter 6, pp. 6.1-6.23
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/emfesoln_chp06))
+({{< resource_link 863d5b28-0c94-3838-22b6-eb8fc939af2b "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +86,7 @@ Chapter 6, pp. 6.1-6.23
 Chapter 7, pp. 7.1-7.32
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/emfesoln_chp07))
+({{< resource_link 99b7333a-a142-87b3-3f59-5742fd8f82a9 "PDF - 1.3MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +95,7 @@ Chapter 7, pp. 7.1-7.32
 Chapter 8, pp. 8.1-8.25
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/emfesoln_chp08))
+({{< resource_link f84f36bf-ff8a-f339-fc40-c51d347b3ffa "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +104,7 @@ Chapter 8, pp. 8.1-8.25
 Chapter 9, pp. 9.1-9.30
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/emfesoln_chp09))
+({{< resource_link cab02d03-6e0b-ba92-d0cc-7ad99a540139 "PDF - 1.1MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +113,7 @@ Chapter 9, pp. 9.1-9.30
 Chapter 10, pp. 10.1-10.35
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/emfesoln_chp10))
+({{< resource_link 8745d367-5f2d-4487-9e51-78dd161cfcd4 "PDF - 1.1MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +122,7 @@ Chapter 10, pp. 10.1-10.35
 Chapter 11, pp. 11.1-11.36
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/emfesoln_chp11))
+({{< resource_link bef1d4a1-12d3-978d-c858-d34e94af5847 "PDF - 1.1MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +131,7 @@ Chapter 11, pp. 11.1-11.36
 Chapter 12, pp. 12.1-12.20
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/emfesoln_chp12))
+({{< resource_link 91cfc558-571a-bbee-7ff7-2183f8e8560e "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +140,7 @@ Chapter 12, pp. 12.1-12.20
 Chapter 13, pp. 13.1-13.22
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/emfesoln_chp13))
+({{< resource_link 03eaa95a-b3bb-fa08-10e3-8a39a4ba0a26 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +149,7 @@ Chapter 13, pp. 13.1-13.22
 Chapter 14, pp. 14.1-14.20
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/emfesoln_chp14))
+({{< resource_link b757c259-deb8-8784-04b9-92f52959ff41 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ Chapter 14, pp. 14.1-14.20
 Chapter 15, pp. 15.1-15.8
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/emfesoln_chp15))
+({{< resource_link bed7a6d5-a5c6-752b-0e9b-5d6355490174 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

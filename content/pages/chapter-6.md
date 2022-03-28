@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 6
 uid: 01ee9e71-9c02-84a2-f293-a9b7db5d103d
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 6: Polarization** ([PDF]({{< baseurl >}}/resources/06))
+**Chapter 6: Polarization** ({{< resource_link 8f7b5c42-0309-e380-2750-867b900337ac "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,10 +62,10 @@ LONG FORM
 6.6.1: An artificial dielectric
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 6.6.1: An Artificial Dielectric (demo only)]({{< baseurl >}}/resources/chapter-6-6)
+{{< resource_link b3865283-3017-24cb-1fc0-4c10e75bb5fb "Chapter 6.6.1: An Artificial Dielectric (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 6.6.1: An Artificial Dielectric]({{< baseurl >}}/resources/chapter-6-6-1)
+{{< resource_link 7adff263-93e0-e1df-a6d2-0c65865db76e "Chapter 6.6.1: An Artificial Dielectric" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

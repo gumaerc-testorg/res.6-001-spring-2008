@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 5
 uid: 8658f58c-d6e2-d103-e723-926b9acead81
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 5: Electroquasistatic fields from the boundary value point of view** ([PDF]({{< baseurl >}}/resources/05))
+**Chapter 5: Electroquasistatic fields from the boundary value point of view** ({{< resource_link 89802d39-96d6-801e-7984-6382e9b4082e "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,10 +67,10 @@ LONG FORM
 5.5.1: Capacitance attenuator
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 5.5.1: Capacitance Attenuator (demo only)]({{< baseurl >}}/resources/chapter-5-5)
+{{< resource_link 47ef1bad-aaeb-be01-9cb4-9d37afdafc81 "Chapter 5.5.1: Capacitance Attenuator (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 5.5.1: Capacitance Attenuator]({{< baseurl >}}/resources/chapter-5-5-1)
+{{< resource_link bb6c7380-a137-1298-f61c-eb34b714cb52 "Chapter 5.5.1: Capacitance Attenuator" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

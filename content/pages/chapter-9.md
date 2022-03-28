@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 9
 uid: 5facb331-041b-4305-6eec-0503080cecb4
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 9: Magnetization** ([PDF]({{< baseurl >}}/resources/09))
+**Chapter 9: Magnetization** ({{< resource_link d4860fdc-85d6-6782-8060-e6d72e49a62f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +66,7 @@ LONG FORM
 9.4.1: Measurement of B-H characteristic
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 9.4.1: Measurement of B-H Characteristic (demo only)]({{< baseurl >}}/resources/chapter-9-4)
+{{< resource_link a27fcf07-95b4-9661-6637-2994d5c20de1 "Chapter 9.4.1: Measurement of B-H Characteristic (demo only)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 [Chapter 9.4.1: Measurement of B-H Characteristic]({{< baseurl >}}/resources/chapter-9-4-1)

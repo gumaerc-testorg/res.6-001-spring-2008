@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 2
 uid: a7c7ef8e-f616-e7d9-68be-a8a1ea2367a0
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 2: Maxwell's differential laws in free space** ([PDF]({{< baseurl >}}/resources/02))
+**Chapter 2: Maxwell's differential laws in free space** ({{< resource_link 1e8d5980-0f74-bd41-872c-7a673e473509 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

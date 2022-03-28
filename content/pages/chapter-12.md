@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 12
 uid: c7e4a3ac-7372-0a82-b7df-3fc14bd9134d
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 12: Electrodynamic fields: the superposition integral point of view** ([PDF]({{< baseurl >}}/resources/12))
+**Chapter 12: Electrodynamic fields: the superposition integral point of view** ({{< resource_link bfaf2511-c75e-831d-aa12-ee74caa817f1 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

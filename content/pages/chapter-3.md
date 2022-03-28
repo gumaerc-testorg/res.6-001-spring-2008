@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 3
 uid: be2b9ed4-c1cd-229f-35dd-1ef6592b3d7f
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 3: Introduction to electroquasistatics and magnetoquasistatics** ([PDF]({{< baseurl >}}/resources/03))
+**Chapter 3: Introduction to electroquasistatics and magnetoquasistatics** ({{< resource_link dd6a30e7-9036-e42d-0d81-3a49b2af1479 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

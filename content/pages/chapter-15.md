@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 15
 uid: b507b27a-e00d-8e04-ab27-60202f8906f9
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 15: Overview of electromagnetic fields** ([PDF]({{< baseurl >}}/resources/15))
+**Chapter 15: Overview of electromagnetic fields** ({{< resource_link eba8fa19-f251-aa56-1253-4a091e4c6999 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

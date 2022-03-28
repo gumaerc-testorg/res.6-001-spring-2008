@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Chapter 14
 uid: 595a76d3-2e2b-9799-b028-0ed889cd01f1
 ---
@@ -29,7 +30,7 @@ LONG FORM
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**Chapter 14: One-dimensional wave dynamics** ([PDF]({{< baseurl >}}/resources/14))
+**Chapter 14: One-dimensional wave dynamics** ({{< resource_link 5377fe7e-45e4-c039-e178-203cc78d6657 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
