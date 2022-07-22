@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/3019f880ba0eb8f635ad26b1347c1975_emfesoln_chp05.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Solutions Manual
 parent_type: SupplementalResourceSection
