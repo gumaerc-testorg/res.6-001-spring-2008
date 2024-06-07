@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/8745d3675f2d44879e5178dd161cfcd4_emfesoln_chp10.pdf
+file_size: 1198709
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
