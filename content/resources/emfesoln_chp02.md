@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/8f6581af65f4706cdbdc12b2bde1eb9c_emfesoln_chp02.pdf
+file: /ol-ocw-studio-app/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/8f6581af65f4706cdbdc12b2bde1eb9c_emfesoln_chp02.pdf
 file_size: 642425
 file_type: application/pdf
 learning_resource_types: []
