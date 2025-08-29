@@ -42,11 +42,12 @@
     "website": "res-6-001-electromagnetic-fields-and-energy-spring-2008"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Videos",
     "Problem Sets with Solutions"
   ],
   "site_uid": "633730f0-e5a7-42f9-bf3d-28ae8144f9a9",
   "site_short_id": "res.6-001-spring-2008",
+  "site_url_path": "courses/res-6-001-electromagnetic-fields-and-energy-spring-2008",
   "title": "Course Metadata"
 }
